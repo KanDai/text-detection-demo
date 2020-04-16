@@ -8,7 +8,7 @@ if (window.BarcodeDetector == undefined) {
 }
 
 const video = document.querySelector('#js-video')
-const textBox = document.querySelector('#js-text')
+const textBox = document.querySelector('#js-textBox')
 
 const checkImage = () => {
     const textDetector = new TextDetector()

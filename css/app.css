@@ -24,7 +24,7 @@ html, body {
     object-fit: fill;
 }
 
-.text {
+.textBox {
     width: 100%;
     text-align: center;
     position: fixed;
